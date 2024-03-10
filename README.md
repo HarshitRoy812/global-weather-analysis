@@ -1,9 +1,8 @@
 # GLOBAL WEATHER ANALYSIS
 
 ## PROBLEM STATEMENT
-For travelers planning their next adventure, knowing which countries offer the best weather conditions can greatly enhance their experience. However, with countless destinations worldwide, it's challenging to pinpoint the top choices without comprehensive data analysis.
-This project aims to develop a simple yet effective solution to identify the top five countries with the most favorable weather conditions for travel, leveraging readily available weather data.
-
+For travelers planning their next adventure, knowing which countries offer the best weather conditions can greatly enhance their experience. However, with many destinations worldwide, it's challenging to pinpoint the top choices without the use of data analysis.
+This project aims to develop a simple yet effective solution to identify the top five countries with the most favorable weather conditions for travel.
 ## KEY OBJECTIVE
 To find out the top 5 countries that are best suited for their weather conditions throughout each season.
 
