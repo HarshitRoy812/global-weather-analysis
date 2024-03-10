@@ -23,4 +23,4 @@ To find out the top 5 countries that are best suited for their weather condition
 
 ![code](https://github.com/HarshitRoy812/global-weather-analysis/assets/65864697/fa803215-d1af-4a12-b56e-777e2d720d5c)
 
-## NOTE :- Be sure to remove the custom fonts from 'theme.json' file if you dont have the custom fonts downloaded already on your computer
+## NOTE :- Be sure to remove the custom fonts from 'theme.json' file if you dont have the custom fonts downloaded already on your computer.
